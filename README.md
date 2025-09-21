@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Xerra M
 
-<!--
-**Xerra-m/Xerra-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m learning and building fun projects with **JavaScript & Minecraft plugins**  
+🌱 Currently exploring **Bot WhatsApp & Skript/Denizen plugins**  
+🚀 Future plan: Publish my projects on GitHub for everyone to use  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- 🟨 JavaScript / Node.js
+- ⚒️ Minecraft Skript & Denizen
+- 📦 Git & GitHub
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlugLugLug&show_icons=true&theme=tokyonight)
+
+---
+### 🌟 Featured Projects
+- 🔹 [WhatsApp Bot](#) (Customizable WA bot with roles & menus)
+
+---
+
+### 📫 Connect with me
+- 💌 Email: **your-email@gmail.com**
