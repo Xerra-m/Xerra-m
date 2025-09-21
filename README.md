@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Xerra M
+# 👋 Hi, I’m Xerra
 
 💻 I’m learning and building fun projects with **JavaScript & Minecraft plugins**  
 🌱 Currently exploring **Bot WhatsApp & Skript/Denizen plugins**  
@@ -13,10 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlugLugLug&show_icons=true&theme=tokyonight)
-
----
 ### 🌟 Featured Projects
 - 🔹 [WhatsApp Bot](#) (Customizable WA bot with roles & menus)
 
@@ -24,3 +20,4 @@
 
 ### 📫 Connect with me
 - 💌 Email: **your-email@gmail.com**
+- 🌐 GitHub: [github.com/Xerra-m](https://github.com/Xerra-m)
