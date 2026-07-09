@@ -1,68 +1,31 @@
-👋 Hi, I'm Xerra
+### 👋 Hi, I'm Xerra Magani
 
-💻 Passionate about Web Development and Minecraft Development
+**Frontend Developer & Minecraft Systems Architect**
 
-I'm currently learning and building projects with HTML, CSS, Tailwind CSS, and JavaScript, while also developing custom systems for Minecraft using Skript, Denizen, and other server-side tools.
-
-🚀 My goal is to create useful, creative, and enjoyable projects while continuously improving my skills as a developer.
+*"Turning ideas into reality with code, from responsive web experiences to custom Minecraft mechanics."*
 
 ---
 
-🌱 Currently Learning
-
-- 🎨 HTML, CSS & Tailwind CSS
-- 🟨 JavaScript
-- ⚛️ Preparing to learn React
-- ⚒️ Minecraft Skript & Denizen
-- 📦 Git & GitHub
-
----
-
-🔧 Technologies & Tools
-
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript
-- Git & GitHub
-- Minecraft Skript
-- Denizen
-- PojavLauncher & Minecraft Tooling
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-🌟 Featured Projects
-
-🔹 Personal Portfolio Website
-
-A responsive portfolio website built to showcase my projects, skills, and learning journey.
-
-🔹 Minecraft Development Projects
-
-Custom Minecraft systems, gameplay mechanics, skills, and server-side scripting using Skript and Denizen.
-
-🔹 Future Projects
-
-- React-based applications
-- JavaScript utilities and tools
-- Minecraft web dashboards and companion websites
+### 🚀 About Me
+- 🔭 **Current Focus:** Building scalable React applications and mastering modern frontend workflows.
+- ⚒️ **Minecraft Dev:** Creating custom systems using Skript & Denizen.
+- 🌐 **Community:** Founder of **NirvaID**.
+- 📧 **Connect:** [GitHub](https://github.com/Xerra-m) | [Portfolio](https://xerra-m.github.io/Xerra-portofolio-website/)
 
 ---
 
-🎯 Current Goals
+### 📈 GitHub Stats
+![Xerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xerra-m&show_icons=true&theme=radical)
 
-- Master JavaScript fundamentals
-- Build more real-world projects
-- Learn React and modern frontend development
-- Publish open-source projects on GitHub
-- Combine Web Development and Minecraft Development into larger projects
-
----
-
-📫 Connect With Me
-
-- 🌐 GitHub: https://github.com/Xerra-m
-
----
-
-«"Building websites, crafting Minecraft experiences, and learning something new every day."»
+*"Building websites, crafting Minecraft experiences, and learning something new every day."*
